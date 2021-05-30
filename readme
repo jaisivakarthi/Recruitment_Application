@@ -1,0 +1,18 @@
+Recruitment Application:
+	- Creating recruitment application for employees
+	- Add, edit employee details based on his cv
+	- List page shows the employee name,role,status,team
+	- Can export employees records as excel sheet format
+	Requirements:
+		python3.8
+		flask
+		pandas
+		mysql
+	Files:
+		index.py
+		model.py
+	Database:
+		automate_recruitment
+	Tables:
+		cba_admin
+		cba_employee		
